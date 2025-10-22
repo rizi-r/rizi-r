@@ -1,16 +1,28 @@
 ## Hi there 👋
 
-<!--
-**rizi-r/rizi-r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# README
 
-Here are some ideas to get you started:
+## עליי
+שמי **שושנה רובינשטין**, ואני **מפתחת תוכנה** מוכשרת שאוהבת לעבוד קשה, לאתגר את עצמי ולהשיג מטרות. יש לי **מיומנויות תקשורת מצוינות**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## השכלה
+סיימתי את לימודיי בציונים גבוהים.
+
+## ניסיון מקצועי
+הייתי חלק מצוות הפיתוח של **מערכת** שנועדה לנהל תהליכי הפקה גרפיים, וידאו ותוכן במוסדות חינוך וארגונים ללא מטרת רווח. 
+
+### תכונות המערכת:
+- ניהול פרויקטים כולל שלבי **הזמנה**, **אישור**, **יצירה** והשלמה.
+- **תיעוד מתמשך**.
+- **חוויית משתמש מותאמת תפקיד**.
+- **ניהול עומסים בזמן אמת**.
+
+## טכנולוגיות
+- **TypeScript**
+- **Node.js**
+- **React**
+- **API (REST/GraphQL)**
+- **MongoDB**
+
+## קשר
+[הכנס כאן פרטי קשר אם יש צורך]
