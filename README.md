@@ -1,28 +1,29 @@
 ## Hi there 👋
 
 # README
+## About me
+I am **Shoshana Rubinstein** a **talented software developer** who loves to work hard, challenge myself and achieve goals. I have **excellent communication skills**.
+.
 
-## עליי
-שמי **שושנה רובינשטין**, ואני **מפתחת תוכנה** מוכשרת שאוהבת לעבוד קשה, לאתגר את עצמי ולהשיג מטרות. יש לי **מיומנויות תקשורת מצוינות**.
+##Practical training
+I was part of the development team of **a system** designed to manage graphic, video and content production processes in educational institutions and non-profit organizations.
 
-## השכלה
-סיימתי את לימודיי בציונים גבוהים.
+#### System features:
+- Project management including **order**, **approval**, **creation** and completion stages.
+- **Continuous documentation**.
+- **Role-specific user experience**.
+- **Real-time workload management**.
+-
+## Education
+I graduated with high grades
 
-## ניסיון מקצועי
-הייתי חלק מצוות הפיתוח של **מערכת** שנועדה לנהל תהליכי הפקה גרפיים, וידאו ותוכן במוסדות חינוך וארגונים ללא מטרת רווח. 
-
-### תכונות המערכת:
-- ניהול פרויקטים כולל שלבי **הזמנה**, **אישור**, **יצירה** והשלמה.
-- **תיעוד מתמשך**.
-- **חוויית משתמש מותאמת תפקיד**.
-- **ניהול עומסים בזמן אמת**.
-
-## טכנולוגיות
+### Technologies
 - **TypeScript**
 - **Node.js**
 - **React**
 - **API (REST/GraphQL)**
 - **MongoDB**
+-
 
-## קשר
-[הכנס כאן פרטי קשר אם יש צורך]
+## Contact
+[Insert contact information here if necessary]
